@@ -238,9 +238,9 @@ body {
     left: 50%;
     transform: translateX(-50%);
     background: rgba(255, 255, 255, 0.8);
-    padding: 10px 25px;
-    border-radius: 30px;
-    font-size: 0.8rem;
+    padding: 15px 30px;
+    border-radius: 35px;
+    font-size: 1.2rem;
     color: #c44569;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
     animation: bounce 2s ease-in-out infinite;
