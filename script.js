@@ -12,7 +12,7 @@ function createFallingHeart() {
     const startX = Math.random() * window.innerWidth;
     const size = Math.random() * 20 + 15;
     const duration = Math.random() * 4 + 4;
-    const delay = Math.random() * 2;
+    const delay = Math.random() * 3;
     
     heart.style.left = startX + 'px';
     heart.style.fontSize = size + 'px';

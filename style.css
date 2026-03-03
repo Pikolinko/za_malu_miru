@@ -234,13 +234,13 @@ body {
 /* Click Hint */
 .click-hint {
     position: fixed;
-    bottom: 30px;
+    bottom: 60px;
     left: 50%;
     transform: translateX(-50%);
-    background: rgba(255, 255, 255, 0.9);
-    padding: 15px 30px;
-    border-radius: 50px;
-    font-size: 1.3rem;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 8px 18px;
+    border-radius: 20px;
+    font-size: 1rem;
     color: #c44569;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
     animation: bounce 2s ease-in-out infinite;
