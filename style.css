@@ -238,8 +238,8 @@ body {
     left: 50%;
     transform: translateX(-50%);
     background: rgba(255, 255, 255, 0.8);
-    padding: 11px 40px;
-    border-radius: 25px;
+    padding: 15px 40px;
+    border-radius: 20px;
     font-size: 1rem;
     color: #c44569;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
