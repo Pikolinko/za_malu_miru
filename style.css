@@ -240,7 +240,7 @@ body {
     background: rgba(255, 255, 255, 0.8);
     padding: 10px 22px;
     border-radius: 25px;
-    font-size: 1rem;
+    font-size: 0.8rem;
     color: #c44569;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
     animation: bounce 2s ease-in-out infinite;
