@@ -195,7 +195,7 @@ body {
 
 .letter-content {
     font-family: 'Great Vibes', cursive;
-    font-size: 1.6rem;
+    font-size: 2rem;
     color: #8b4557;
     text-align: center;
     line-height: 1.8;
@@ -209,7 +209,7 @@ body {
 
 .signature {
     margin-top: 20px !important;
-    font-size: 1.8rem;
+    font-size: 2.2rem;
     color: #c44569;
     font-weight: bold;
 }
