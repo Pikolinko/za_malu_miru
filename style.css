@@ -214,6 +214,12 @@ body {
     font-weight: bold;
 }
 
+.signature2 {
+    margin-top: 10px !important;
+    font-size: 1,6rem;
+    color: #c44569;
+}
+
 /* Unboxed Gift */
 .unboxed {
     max-width: 320px;
