@@ -220,6 +220,13 @@ body {
     color: #c44569;
 }
 
+.signature3 {
+	font-family: 'Courier New', cursive;
+    margin-top: 10px !important;
+    font-size: 1,6rem;
+    color: #c44569;
+}
+
 /* Unboxed Gift */
 .unboxed {
     max-width: 320px;
